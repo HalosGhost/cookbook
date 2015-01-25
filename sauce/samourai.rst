@@ -1,0 +1,13 @@
+Samouraï
+--------
+
+This spicy sauce is Swish in-origin but has become very popular in France.
+It is most commonly used as a sauce for fries, but I often use it as a condiment for a variety of dishes, primarily sandwiches.
+
+#. 5 Tbsp Mayonaise
+#. 3 Tbsp Harissa (Hot)
+#. 1 Tbsp Ketchup (preferably, spicy)
+#. ½ Tsp Kosher Salt
+
+Add all ingredients together in a bowl and stir until mixed.
+Serve.
