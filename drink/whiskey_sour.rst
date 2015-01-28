@@ -8,5 +8,9 @@ A new take on a classic, this recipe has become one of my favorite mixed drinks 
 #. 3½ fl. oz. fresh lemon juice
 #. A dash of Angostura Bitters
 
+.. raw:: pdf
+
+    Spacer 0 5
+
 Mix in-glass.
 Serve over whiskey ice sphere or on the rocks.
