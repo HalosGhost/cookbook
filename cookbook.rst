@@ -19,3 +19,9 @@ While I will certainly consider PRs submitted, this cookbook is mostly for my ow
     PageBreak
 
 .. include:: drink/drink.rst
+
+.. raw:: pdf
+
+    PageBreak
+
+.. include:: entree/entree.rst
